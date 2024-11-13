@@ -1,6 +1,1 @@
 theme: jekyll-theme-cayman
-
-
-# 添加以下代码链接自定义样式表
-include:
-  - assets/css/style.css
