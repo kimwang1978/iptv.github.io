@@ -1,2 +1,2 @@
 # 欢迎关注公众号：百宝箱箱
-![image](./assets/gongzhonghao.png)
+![image](./assets/GongZhongHao.png)
