@@ -1,11 +1,5 @@
 theme: jekyll-theme-cayman
 
-# Markdown 解析器的配置选项
-# Kramdown 是一个 Ruby 编写的 Markdown 解析器，它支持标准的 Markdown 语法，并添加了许多扩展功能。Kramdown 是 Jekyll 的默认 Markdown 解析
-markdown: kramdown 
-plugins:
-  - jekyll-remote-theme
-  - jekyll-seo-tag
 
 # 添加以下代码链接自定义样式表
 include:
