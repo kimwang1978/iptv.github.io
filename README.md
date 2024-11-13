@@ -1,1 +1,2 @@
-# kimwang1978.github.io
+# 欢迎关注公众号：百宝箱箱
+![image](./assets/Gongzhonghao.png)
