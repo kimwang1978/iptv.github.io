@@ -23,6 +23,9 @@ jobs:
         run: script/bootstrap
       - name: test
         run: script/cibuild
+        
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
   
   deploy:
     runs-on: ubuntu-latest
