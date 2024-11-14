@@ -3,3 +3,5 @@ description: 人生没有白走的路，你现在所有的努力，要么赚经�
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
+github:
+  is_project_page: false
