@@ -2,4 +2,7 @@ theme: jekyll-theme-cayman
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
-  
+
+# 添加以下代码链接自定义样式表
+include:
+  - assets/css/custom_style.css
