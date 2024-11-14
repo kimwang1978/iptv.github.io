@@ -3,6 +3,9 @@ plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
 
+
+show_powered_by: false
+
 # 添加以下代码链接自定义样式表
 include:
   - assets/css/custom_style.css
