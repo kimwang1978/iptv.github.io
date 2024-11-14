@@ -14,7 +14,9 @@ jobs:
           bundler-cache: true
       
       - name: Set execute permission on script
-        run: chmod +x script/bootstrap
+        run: 
+          chmod +x script/bootstrap
+          chmod +x script/cibuild        
 
       - name: build
         run: script/bootstrap
