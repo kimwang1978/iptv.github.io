@@ -23,3 +23,22 @@ jobs:
         run: script/bootstrap
       - name: test
         run: script/cibuild
+  
+  deploy:
+    runs-on: ubuntu-latest
+    needs: build
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Download site files
+        uses: actions/download-artifact@v3
+        with:
+          name: site
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
