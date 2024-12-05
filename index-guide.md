@@ -5,6 +5,7 @@ layout: default
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
+[新手入门系列：派大星直播](./docs/001_paidaxin.md).
 
 There should be whitespace between paragraphs.
 
