@@ -3,4 +3,4 @@
 
 ## 邮件：service@iptv365.org
 
-[新手入门系列：派大星直播](./docs/001_paidaxin.html).
+[新手入门系列：派大星直播](./docs/001_paidaxin.md).
