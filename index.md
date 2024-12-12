@@ -7,6 +7,7 @@
 
 *   [Chrome插件：Fast IPTV（本号推荐）](./docs/002_FastIPTV.md).
 
+*   [（源播放器相关）ijk与exo区别浅析](./docs/003_JieMa.md).
    
 
 ### 邮件：service@iptv365.org
