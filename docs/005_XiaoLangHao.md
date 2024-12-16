@@ -8,23 +8,23 @@
 
 ### 小狼毫的特点：
 
-*   开源与跨平台
+*   **开源与跨平台**
 
 基于 Rime 输入法引擎，小狼毫是完全开源的，代码可以自由查看和修改。
 
-*   高度可定制
+*   **高度可定制**
 
 用户可以通过配置文件定制词库、皮肤、输入方案，甚至可以添加自己专属的输入习惯。
 
-*   支持多种输入方案
+*   **支持多种输入方案**
 
 除了常见的拼音、双拼外，还支持五笔、郑码、仓颉等输入法方案。
 
-*   高效与精准
+*   **高效与精准**
 
 输入体验流畅，词库管理和输入法方案都可以根据需要优化。
 
-*   轻量级与简洁
+*   **轻量级与简洁**
 
 界面简约，资源占用少，适合不同配置的计算机使用。
 
@@ -57,10 +57,10 @@ clover.schema-1.1.4.zip (四叶草方案：篇幅限制以后介绍)
 ![image](../assets/img/005_XiaoLangHao/XLH04.png)
 ![image](../assets/img/005_XiaoLangHao/XLH05.png)
 ![image](../assets/img/005_XiaoLangHao/XLH06.png)
+![image](../assets/img/005_XiaoLangHao/XLH07.png)
 
 上图任意选择自己喜欢的风格，之后也可以随时改。
 
-![image](../assets/img/005_XiaoLangHao/XLH07.png)
 ![image](../assets/img/005_XiaoLangHao/XLH08.png)
 ![image](../assets/img/005_XiaoLangHao/XLH09.png)
 
@@ -69,12 +69,14 @@ clover.schema-1.1.4.zip (四叶草方案：篇幅限制以后介绍)
 安装上面默认安装完成后，右下角输入法里会多出下图输入法选择项。
 
 ![image](../assets/img/005_XiaoLangHao/XLH10.png)
+
 ![image](../assets/img/005_XiaoLangHao/XLH11.png)
 
 
 安装时都直接缺省项完成，选择小狼毫输入法后，第一次尝试输入，会发现是繁体。然后，进行简体的输入法设定即可。
 
 ![image](../assets/img/005_XiaoLangHao/XLH12.png)
+
 ![image](../assets/img/005_XiaoLangHao/XLH13.png)
 
 

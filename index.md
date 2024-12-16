@@ -3,14 +3,14 @@
 
 
 ## Blog列表
-*   [新手入门系列：派大星直播](./docs/001_paidaxing.md).
+*   [新手入门系列：派大星直播](./docs/001_paidaxing.md)
 
-*   [Chrome插件：Fast IPTV（本号推荐）](./docs/002_FastIPTV.md).
+*   [Chrome插件：Fast IPTV（本号推荐）](./docs/002_FastIPTV.md)
 
-*   [（源播放器相关）ijk与exo区别浅析](./docs/003_JieMa.md).
+*   [（源播放器相关）ijk与exo区别浅析](./docs/003_JieMa.md)
 
-*   [Chrome插件：Fast IPTV之离线安装](./docs/004_FastIPTV_OfflineInstall.md).
+*   [Chrome插件：Fast IPTV之离线安装](./docs/004_FastIPTV_OfflineInstall.md)
 
-*   [小狼毫输入法（本号推荐）](./docs/005_XiaoLangHao.md).
+*   [小狼毫输入法（本号推荐）](./docs/005_XiaoLangHao.md)
 
-### 邮件：service@iptv365.org
+### 联系邮件：service@iptv365.org
