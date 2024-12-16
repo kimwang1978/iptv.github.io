@@ -10,6 +10,7 @@
 *   [（源播放器相关）ijk与exo区别浅析](./docs/003_JieMa.md).
 
 *   [Chrome插件：Fast IPTV之离线安装](./docs/004_FastIPTV_OfflineInstall.md).
-   
+
+*   [小狼毫输入法（本号推荐）](./docs/005_XiaoLangHao.md).
 
 ### 邮件：service@iptv365.org
