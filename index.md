@@ -13,4 +13,6 @@
 
 *   [小狼毫输入法（本号推荐）](./docs/005_XiaoLangHao.md)
 
+*   [小狼毫输入法之四叶草方案](./docs/006_XiaoLangHao_SYC.md)
+
 ### 联系邮件：service@iptv365.org
