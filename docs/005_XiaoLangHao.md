@@ -84,7 +84,8 @@ clover.schema-1.1.4.zip (四叶草方案：篇幅限制以后介绍)
 
 
 
-再次尝试输入，会发现已经变成简体输入了。
+再次尝试输入，会发现已经变成简体输入了
+
 ![image](../assets/img/005_XiaoLangHao/XLH14.png)
 
 
