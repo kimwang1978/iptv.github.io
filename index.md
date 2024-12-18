@@ -15,4 +15,6 @@
 
 *   [小狼毫输入法之四叶草方案](./docs/006_XiaoLangHao_SYC.md)
 
+*   [Chrome插件：ChatGPT search（OpenAI宣布免费开放）](./docs/007_ChatGPTSearch.md)
+
 ### 联系邮件：service@iptv365.org
