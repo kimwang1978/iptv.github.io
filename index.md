@@ -5,6 +5,8 @@
 
 ### Blog列表
 
+*   [Chrome插件：IP Domain Country Flag](./docs/010_IPDomainCountryFlag.md)
+
 *   [小技巧：如何把微信当笔记用？](./docs/009_Wexin_Biji.md)
 
 *   [🎊即将推出：2025新年新源（海外）🎊](./docs/008_NewSource.md)
