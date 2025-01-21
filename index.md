@@ -28,3 +28,4 @@
 
 
 ### 联系邮件：service@iptv365.org
+![image](./assets/BBXX-QR.jpg)
