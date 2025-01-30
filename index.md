@@ -8,7 +8,9 @@
 
 *   [🎊2025新年新源（海外）🎊](./docs/008_NewSource.md)
 
-*   [新手入门系列：派大星直播](./docs/001_paidaxing.md)
+*   [新手入门系列：(壳播放器·安卓) 派大星直播](./docs/001_paidaxing.md)
+
+*   [新手入门系列：(壳播放器·苹果) zFuse](./docs/012_zFuse.md)
 
 *   [（源播放器相关）ijk与exo区别浅析](./docs/003_JieMa.md)
 
