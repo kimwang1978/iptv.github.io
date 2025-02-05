@@ -4,6 +4,9 @@
 <img src="./assets/GongZhongHao.png" alt="image" width="400" height="auto">
 
 ### Blog列表
+
+*   [小知识：armeabi-v7a 和 arm64-v8a区别](./docs/015_arm.md)
+
 *   [🎊2025新年新源（海外）🎊](./docs/008_NewSource.md)
 
 *   [新手入门系列： 单仓与多仓区别](./docs/014_DanCangDuoCang.md)
