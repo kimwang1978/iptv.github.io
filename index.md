@@ -11,7 +11,7 @@
 
 ### Blog列表
 
-*   [＜播放器＞Ghosten Player](./docs/016_GhostenPlayer)
+*   [＜播放器＞Ghosten Player](./docs/016_GhostenPlayer.md)
 
 *   [小知识：armeabi-v7a 和 arm64-v8a区别](./docs/015_arm.md)
 
