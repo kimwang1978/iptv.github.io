@@ -10,6 +10,8 @@
 *   🔎 [百宝箱箱 直播源搜索·IPTV源搜索](https://search.iptv365.org) 
 
 ### Blog列表
+*   🆕 [ ＜播放器＞ZyPlayer](./docs/021_ZyPlayer.md)
+
 *   🆕 [新手入门系列：（点播·直播）影视仓新手上路](./docs/017_YingShiCang.md)
 
 *   [＜播放器＞Ghosten Player](./docs/016_GhostenPlayer.md)
