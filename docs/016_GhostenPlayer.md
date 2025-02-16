@@ -1,3 +1,4 @@
+[返回主页面](..)
 ## ＜播放器＞Ghosten Player
 
 Ghosten Player 是一款专为 Android TV 和 Android 手机设计的视频播放器，提供了丰富的功能和简洁的用户界面。以下是对其主要功能的介绍：
