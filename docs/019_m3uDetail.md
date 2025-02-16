@@ -105,6 +105,6 @@ http://example.com/live/cctv1
 M3U 文件格式的灵活性使其能够适应不同的媒体播放需求，尤其是 IPTV 应用。通过正确使用 #EXTINF 和扩展标签，可以为用户提供详细的频道信息、EPG 支持以及回看功能。
 
 ## 获取更多，欢迎关注公众号：百宝箱箱
-![image](../assets/GongZhongHao.png)
+<img src="../assets/GongZhongHao.png" style="max-width:100%; height:auto;">
 
 [返回](..)

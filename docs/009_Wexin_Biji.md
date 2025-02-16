@@ -31,6 +31,6 @@
 其实微信也有个自己的收藏功能，也是可以当笔记用，但是调出收藏菜单有点繁琐，也不能建多个收藏，所以本号不是太喜欢。
 
 ## 获取更多，欢迎关注公众号：百宝箱箱
-![image](../assets/GongZhongHao.png)
+<img src="../assets/GongZhongHao.png" style="max-width:100%; height:auto;">
 
 [返回](..)

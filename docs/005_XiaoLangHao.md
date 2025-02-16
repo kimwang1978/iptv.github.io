@@ -101,6 +101,6 @@ Github开源地址：https://github.com/rime/weasel
 >以上只是介绍了个大概，适合新手朋友们，其实小狼毫输入法还有很多有趣的用法，以后有时间会整理后分享出来。另外，好像手机移动端也是能支持的，等本号搞明白后，如果反响不错再分享给有需要的朋友。关注本号，本号的持续输出一定会让各位有所收获。
 
 ## 获取更多，欢迎关注公众号：百宝箱箱
-![image](../assets/GongZhongHao.png)
+<img src="../assets/GongZhongHao.png" style="max-width:100%; height:auto;">
 
 [返回](..)

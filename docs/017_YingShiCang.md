@@ -131,7 +131,26 @@
 
 >公众号私信“影视仓”获取下载地址。
 
+
+### 其他基础知识：
+*   [新手入门系列：（点播·直播）OK影视Pro](../docs/022_OK_Pro.md)
+
+*   [新手入门系列： txt直播源 vs m3u直播源](../docs/018_txtm3u.md)
+
+*   [新手入门系列： m3u直播源格式之详解](../docs/019_m3uDetail.md)
+
+*   [新手入门系列： m3u格式之EPG（电视节目预告）](../docs/020_m3uDetail2.md)
+
+*   [新手入门系列： 单仓与多仓区别](../docs/014_DanCangDuoCang.md)
+
+*   [新手入门系列： 点播源与直播源区别](../docs/013_DianBoZhiBo.md)
+
+*   [新手入门系列：(壳播放器·安卓) 派大星直播](../docs/001_paidaxing.md)
+
+*   [新手入门系列：(壳播放器·苹果) zFuse](../docs/012_zFuse.md)
+
+
 ## 获取更多，欢迎关注公众号：百宝箱箱
-![image](../assets/GongZhongHao.png)
+<img src="../assets/GongZhongHao.png" style="max-width:100%; height:auto;">
 
 [返回](..)

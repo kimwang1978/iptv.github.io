@@ -33,6 +33,6 @@ https://chromewebstore.google.com/detail/chatgpt-search/ejcfepkfckglbgocfkanmcdn
 
 
 ## 获取更多，欢迎关注公众号：百宝箱箱
-![image](../assets/GongZhongHao.png)
+<img src="../assets/GongZhongHao.png" style="max-width:100%; height:auto;">
 
 [返回](..)

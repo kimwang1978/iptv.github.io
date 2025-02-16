@@ -10,7 +10,7 @@
 *   🔎 [百宝箱箱 直播源搜索·IPTV源搜索](https://search.iptv365.org) 
 
 ### Blog列表
-*   🆕 [ ＜播放器＞ZyPlayer](./docs/021_ZyPlayer.md)
+*   🆕 [新手入门系列：（点播·直播）OK影视](./docs/022_OK_Pro.md)
 
 *   🆕 [新手入门系列：（点播·直播）影视仓新手上路](./docs/017_YingShiCang.md)
 
@@ -24,7 +24,7 @@
 
 *   [新手入门系列： m3u直播源格式之详解](./docs/019_m3uDetail.md)
 
-*   [新手入门系列： m3u格式之EPG（电视节目预告）](./docs/020_m3uDetail2.md)
+*   [新手入门系列： m3u格式之EPG](./docs/020_m3uDetail2.md)
 
 *   [新手入门系列： 单仓与多仓区别](./docs/014_DanCangDuoCang.md)
 
@@ -34,13 +34,15 @@
 
 *   [新手入门系列：(壳播放器·苹果) zFuse](./docs/012_zFuse.md)
 
+*   [ ＜播放器＞ZyPlayer](./docs/021_ZyPlayer.md)
+
 *   [（源播放器相关）ijk与exo区别浅析](./docs/003_JieMa.md)
 
 *   [Chrome插件：Fast IPTV（本号推荐）](./docs/002_FastIPTV.md)
 
 *   [Chrome插件：Fast IPTV之离线安装](./docs/004_FastIPTV_OfflineInstall.md)
 
-*   [Chrome插件：ChatGPT search（OpenAI宣布免费开放）](./docs/007_ChatGPTSearch.md)
+*   [Chrome插件：ChatGPT search](./docs/007_ChatGPTSearch.md)
 
 *   [Chrome插件：IP Domain Country Flag](./docs/010_IPDomainCountryFlag.md)
 

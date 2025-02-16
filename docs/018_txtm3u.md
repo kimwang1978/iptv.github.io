@@ -42,6 +42,6 @@ http://example.com/live/rthk31.m3u8
 各种播放工具支持各不同，有些两者都支持，可以都试试效果。比较典型播放源播放工具：**TvBox**，**影视仓**，**FongMi**，**派大星直播**，各种魔改版等。手机播放器的话只要集中在安卓系统上，苹果系统由于其系统封闭性和审核严格性App相对较少。Windows桌面系统上 **PotPlayer** 也是支持的，本号比较推荐 **ZyPlayer** 。
 
 ## 获取更多，欢迎关注公众号：百宝箱箱
-![image](../assets/GongZhongHao.png)
+<img src="../assets/GongZhongHao.png" style="max-width:100%; height:auto;">
 
 [返回](..)

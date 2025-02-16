@@ -40,6 +40,6 @@ tldraw 是一款开源的在线白板工具，提供无限画布，用户可以
 <video src="../assets/img/011_tldraw/Tldrwa-zipped.mp4" controls="controls" height="400"></video>
 
 ## 获取更多，欢迎关注公众号：百宝箱箱
-![image](../assets/GongZhongHao.png)
+<img src="../assets/GongZhongHao.png" style="max-width:100%; height:auto;">
 
 [返回](..)
