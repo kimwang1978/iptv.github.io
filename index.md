@@ -10,9 +10,11 @@
 *   🔎 [百宝箱箱 直播源搜索·IPTV源搜索](https://search.iptv365.org) 
 
 ### Blog列表
-*   🆕 [新手入门系列：（点播·直播）OK影视](./docs/022_OK_Pro.md)
+*   🆕 [新手入门系列：安卓（点播·直播）OK影视](./docs/022_OK_Pro.md)
 
-*   🆕 [新手入门系列：（点播·直播）影视仓新手上路](./docs/017_YingShiCang.md)
+*   🆕 [新手入门系列：安卓（点播·直播）影视仓新手上路](./docs/017_YingShiCang.md)
+
+*   🆕 [新手入门系列：PC（直播）使用PotPlayer播放源](./docs/023_PotPlayer.md)
 
 *   [＜播放器＞Ghosten Player](./docs/016_GhostenPlayer.md)
 
