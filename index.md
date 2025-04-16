@@ -5,6 +5,8 @@
 
 ### 小物件
 
+*   🛠️ [M3U ⇄ TXT 转换工具](https://convert.iptv365.org) 
+
 *   📻️ [百宝箱箱 收音机](https://radio.iptv365.org) 
 
 *   🔎 [百宝箱箱 直播源·IPTV源搜索](https://search.iptv365.org) 
