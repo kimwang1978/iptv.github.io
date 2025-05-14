@@ -13,8 +13,6 @@
 
 ### Blog列表
 
-*   🆕 [＜工具＞图片查看器：ImageGlass](./docs/024_ImageGlass.md)
-
 *   [🎊2025新年新源（海外）🎊](./docs/008_NewSource.md)
 
 *   🔰 [新手入门系列：（安卓）OK影视](./docs/022_OK_Pro.md)
@@ -37,9 +35,9 @@
 
 *   🔰 [新手入门系列：(壳播放器·苹果) zFuse](./docs/012_zFuse.md)
 
-*   ▶️ [＜播放器＞ZyPlayer](./docs/021_ZyPlayer.md)
+*   ▶️ [＜其他播放器＞ZyPlayer(zyFun)](./docs/021_ZyPlayer.md)
 
-*   ▶️ [＜播放器＞Ghosten Player](./docs/016_GhostenPlayer.md)
+*   ▶️ [＜其他播放器＞Ghosten Player](./docs/016_GhostenPlayer.md)
 
 *   [（源播放器相关）ijk与exo区别浅析](./docs/003_JieMa.md)
 
@@ -60,6 +58,8 @@
 *   [小狼毫输入法之四叶草方案](./docs/006_XiaoLangHao_SYC.md)
 
 *   [＜工具＞在线画板TLDraw](./docs/011_tldraw.md)
+
+*   🆕 [＜工具＞图片查看器：ImageGlass](./docs/024_ImageGlass.md)
 
 
 
