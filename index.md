@@ -12,7 +12,15 @@
 *   🛠️ [M3U ⇄ TXT 转换](https://convert.iptv365.org) 
 
 ### Blog列表
-*   [📺 IPTVnator：一款跨平台开源 IPTV 播放器](./docs/025_IPTVnator.md)
+*   🆕 [📺 IPTVnator：一款跨平台开源 IPTV 播放器](./docs/025_IPTVnator.md)
+
+*   🆕 [🔧 Ray.so：开发者专属的代码截图与图标制作神器](./docs/026_rayso.md)
+
+*   🆕 [🌐 IP 地址信息查询工具介绍： ipcheck.ing](./docs/027_ipchecking.md)
+
+*   🆕 [🎨 Squish 在线图像压缩工具](./docs/028_squish.md)
+
+*   🆕 [🎸 Aural Player 一款专为 macOS 打造的本地音乐播放器](./docs/029_auralplayer.md)
 
 *   [🎊2025新年新源（海外）🎊](./docs/008_NewSource.md)
 
