@@ -12,6 +12,7 @@
 *   🛠️ [M3U ⇄ TXT 转换](https://convert.iptv365.org) 
 
 ### Blog列表
+*   [📺 IPTVnator：一款跨平台开源 IPTV 播放器](./docs/025_IPTVnator.md)
 
 *   [🎊2025新年新源（海外）🎊](./docs/008_NewSource.md)
 
@@ -35,9 +36,9 @@
 
 *   🔰 [新手入门系列：(壳播放器·苹果) zFuse](./docs/012_zFuse.md)
 
-*   ▶️ [＜其他播放器＞ZyPlayer(zyFun)](./docs/021_ZyPlayer.md)
+*   ▶️ [＜播放器＞ZyPlayer(zyFun)](./docs/021_ZyPlayer.md)
 
-*   ▶️ [＜其他播放器＞Ghosten Player](./docs/016_GhostenPlayer.md)
+*   ▶️ [＜播放器＞Ghosten Player](./docs/016_GhostenPlayer.md)
 
 *   [（源播放器相关）ijk与exo区别浅析](./docs/003_JieMa.md)
 
