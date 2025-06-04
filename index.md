@@ -78,6 +78,16 @@
 
 *   🆕 [🌟 龙华偶像频道：追剧迷的天堂](./docs_TV/001_LTV_LHOX.md)
 
+*   🆕 [🎬 龙华经典频道：重温光影传奇，收藏电影黄金岁月](./docs_TV/002_LTV_LHJD.md)
+
+*   🆕 [📺 年代新闻台](./docs_TV/003_NDXW.md)
+
+*   🆕 [📺 纬来精彩频道简介](./docs_TV/004_WLJC.md)
+
+*   🆕 [🇯🇵 NHK（日本放送協会）简介](./docs_TV/005_NHK.md)
+
+*   🆕 [📺 Astro欢喜台简介](./docs_TV/006_Astro_HXT.md)
+
 
 ### 联系邮件：service@iptv365.org
 ![image](./assets/BBXX-QR.jpg)
