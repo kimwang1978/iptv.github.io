@@ -5,7 +5,7 @@
 
 ### 小物件
 
-*   🔎 [百宝箱箱 直播源·IPTV源搜索](https://search.iptv365.org) 
+*   🔎 [百宝箱箱 直播源·IPTV源检索](https://search.iptv365.org) 
 
 *   📻️ [百宝箱箱 电台](https://radio.iptv365.org) 
 
@@ -76,17 +76,37 @@
 
 ### 频道介绍
 
-*   🆕 [🌟 龙华偶像频道：追剧迷的天堂](./docs_TV/001_LTV_LHOX.md)
+*   🆕 [🗼 Tokyo MX（东京MX电视台）简介](./docs_TV/007_TokyoMX.md)
 
-*   🆕 [🎬 龙华经典频道：重温光影传奇，收藏电影黄金岁月](./docs_TV/002_LTV_LHJD.md)
+*   🆕 [📺 人间卫视](./docs_TV/008_RJWS.md)
 
-*   🆕 [📺 年代新闻台](./docs_TV/003_NDXW.md)
+*   🆕 [🎭 霹雳台湾台简介](./docs_TV/016_PLTWT.md)
 
-*   🆕 [📺 纬来精彩频道简介](./docs_TV/004_WLJC.md)
+*   🆕 [🇸🇬 Channel 5（新加坡）介绍 ](./docs_TV/009_Channel5.md )
 
-*   🆕 [🇯🇵 NHK（日本放送協会）简介](./docs_TV/005_NHK.md)
+*   🆕 [🇸🇬 Channel 8（新加坡）介绍 ](./docs_TV/010_Channel8.md )
 
-*   🆕 [📺 Astro欢喜台简介](./docs_TV/006_Astro_HXT.md)
+*   🆕 [🇸🇬 Channel U（U频道）介绍 ](./docs_TV/011_ChannelU.md )
+
+*   🆕 [🇸🇬 📺 HUB都会频道介绍 ](./docs_TV/012_Hub_DH.md )
+
+*   🆕 [🇸🇬 📺 HUB娱家戏剧台频道介绍   ](./docs_TV/013_Hub_YJ.md )
+
+*   🆕 [🌏 EYE TV戏剧台介绍 ](./docs_TV/014_EYETV_XJ.md )
+
+*   🆕 [🌏 EYE TV旅游台简介 ](./docs_TV/015_EYETV_LY.md )
+
+*   [🌟 龙华偶像频道：追剧迷的天堂](./docs_TV/001_LTV_LHOX.md)
+
+*   [🎬 龙华经典频道：重温光影传奇，收藏电影黄金岁月](./docs_TV/002_LTV_LHJD.md)
+
+*   [📺 年代新闻台](./docs_TV/003_NDXW.md)
+
+*   [📺 纬来精彩频道简介](./docs_TV/004_WLJC.md)
+
+*   [🇯🇵 NHK（日本放送協会）简介](./docs_TV/005_NHK.md)
+
+*   [📺 Astro欢喜台简介](./docs_TV/006_Astro_HXT.md)
 
 
 ### 联系邮件：service@iptv365.org
