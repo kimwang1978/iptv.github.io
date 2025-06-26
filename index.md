@@ -100,6 +100,8 @@
 
 *   [🎬 龙华经典频道：重温光影传奇，收藏电影黄金岁月](./docs_TV/002_LTV_LHJD.md)
 
+*   [🌸 龙华日韩频道](./docs_TV/017_LTV_LHRH.md)
+
 *   [📺 年代新闻台](./docs_TV/003_NDXW.md)
 
 *   [📺 纬来精彩频道简介](./docs_TV/004_WLJC.md)
