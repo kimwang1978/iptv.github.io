@@ -14,7 +14,7 @@ jobs:
 
       - name: 下载文件
         run: |
-          curl -o live.txt "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/refs/heads/main/tiyu.html" 
+          curl -o tiyu.html "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/refs/heads/main/tiyu.html" 
 
       - name: 提交更改到 GitHub
         run: |
