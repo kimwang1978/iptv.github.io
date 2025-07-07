@@ -2,27 +2,27 @@ name: Sync File
 
 on:
   schedule:
-    - cron: '0 3 * * *'  # 每天 UTC 时间 03:00 运行（可根据需要修改）
-  workflow_dispatch:  # 允许手动触发
+    - cron: '0 3 * * *'  # 每天 UTC 时间 03:00
+  workflow_dispatch:
 
 jobs:
   sync-file:
     runs-on: ubuntu-latest
     steps:
-      - name: 检出 GitHub 仓库
+      - name: 检出仓库
         uses: actions/checkout@v4
 
-      - name: 下载文件
+      - name: 下载
         run: |
-          curl -o tiyu.html "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/refs/heads/main/tiyu.html" 
+          curl -o tiyu.html "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/tiyu.html"
 
-      - name: 提交更改到 GitHub
+      - name: 提交更改
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git stash
-          git pull --rebase
-          git stash pop
+          git config --global pull.rebase true
+          
           git add tiyu.html
           git commit -m "Sync File $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
+          git pull --rebase
           git push
