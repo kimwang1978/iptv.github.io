@@ -7,6 +7,8 @@
 
 *   🔎 [百宝箱箱 直播源·IPTV源检索](https://search.iptv365.org) 
 
+*   🔎 [体育赛事源](tiyu.html) 
+
 *   📻️ [百宝箱箱 电台](https://radio.iptv365.org) 
 
 *   🛠️ [M3U ⇄ TXT 转换](https://convert.iptv365.org) 
