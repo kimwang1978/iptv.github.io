@@ -7,11 +7,11 @@
 
 *   🔎 [源检索](https://search.iptv365.org) 
 
-*   🔎 [赛事源](tiyu.html) 
+*   🔎 [各赛事源](tiyu.html) 
 
-*   📻️ [收音机](https://radio.iptv365.org) 
+*   📻️ [白噪音电台](https://radio.iptv365.org) 
 
-*   🛠️ [M3U ⇄ TXT 转换](https://convert.iptv365.org) 
+*   🛠️ [M3U ⇄ TXT](https://convert.iptv365.org) 
 
 ### Blog列表
 
