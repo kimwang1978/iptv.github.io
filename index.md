@@ -7,8 +7,6 @@
 
 *   🔎 [源检索](https://search.iptv365.org) 
 
-*   🔎 [各赛事源](tiyu.html) 
-
 *   📻️ [白噪音电台](https://radio.iptv365.org) 
 
 *   🛠️ [M3U ⇄ TXT](https://convert.iptv365.org) 
