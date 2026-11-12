@@ -7,7 +7,9 @@
 
 *   🔎 [源检索](https://search.iptv365.org) 
 
-*   📻️ [白噪音电台](https://radio.iptv365.org) 
+*   📻️ [白噪音电台](https://radio.iptv365.org)
+
+*   📻️ [世界收音机](https://world-radio.iptv365.org) 
 
 *   🛠️ [M3U ⇄ TXT](https://convert.iptv365.org) 
 
