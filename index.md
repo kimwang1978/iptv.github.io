@@ -5,7 +5,9 @@
 
 ### 小物件
 
-*   🔎 [源检索](https://search.iptv365.org) 
+*   🔎 [源检索V1](https://search.iptv365.org)   
+
+*   🔎 [源检索V2:IPTV频道搜索](https://search2.iptv365.org)
 
 *   📻️ [白噪音电台](https://radio.iptv365.org)
 
